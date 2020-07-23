@@ -1,0 +1,5 @@
+fortnitepy==1.7.1
+aiohttp
+colorama
+BenBotAsync
+crayons
